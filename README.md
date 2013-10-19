@@ -17,3 +17,7 @@ This makes use of some Makefile shortcuts. You don't have to use them if you don
 
 - `make run` is a shortcut for `docpad run`.
 - `make pages` will create a static build of the site and save it to the `static` path. Meant for deploy to gh-pages, or any static hosting option.
+
+## Follow-up slides
+
+[http://slid.es/w33ble/harvest-middleware](http://slid.es/w33ble/harvest-middleware)
